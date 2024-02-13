@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6d07be6f-7b44-49e1-b10e-32c176fe81d6">
+  <producedTypes>
+    <objectType typeId="39b520cd-d3c9-43fc-b81b-ce909739aca5" valueTypeId="18d2ae73-592d-4c56-867d-554be5d4fe6a"/>
+  </producedTypes>
+  <name>SUI_АдминистрированиеSimple</name>
+  <synonym>
+    <key>ru</key>
+    <value>Администрирование Simple (SUI)</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="6fb65d2d-db0e-4475-b97b-eb7fbd1b57f0"/>
+  <defaultForm>ExternalDataProcessor.SUI_АдминистрированиеSimple.Form.Форма</defaultForm>
+  <forms uuid="350d422d-453c-43db-9ed4-54478f000f57">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
